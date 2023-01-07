@@ -50,7 +50,7 @@
 
 * Prepare for security events
 
-### Best Practices
+### Best Practices (Design)
 
 * Before you architect a workload, put in place practices that influence security
 
@@ -68,7 +68,7 @@
 
 * This includes operational and test workloads throughout a lifecycle
 
-### Design Principles
+### Reliability Design Principles
 
 * Automatically recover from failure
 
@@ -80,7 +80,7 @@
 
 * Manage change in automation
 
-### Best Practices
+### Reliability Best Practices
 
 * Keep in mind sufficient bandwidth to your data center
 
@@ -100,7 +100,7 @@
 
 * Efficiency is the abililty to use computing resources to efficiently meet system requirements, including as apps and technology evolves
 
-### Design Principles
+### Performance Design Principles
 
 * Democratize advanced technologies
 
@@ -112,7 +112,7 @@
 
 * Consider mechanical sympathy
 
-### Best Practices
+### Performance Best Practices
 
 * Take a data-driven aprproach to building high performance
 
@@ -131,7 +131,7 @@
 
 * Cost pillar includes ability to run systems and deliver business value at the lowest price point
 
-### Design Principles
+### Cost Optimization Design Principles
 
 * Implement cloud financial management
 
@@ -143,7 +143,7 @@
 
 * Analyze and attribute expenditure
 
-### Best Practices
+### Cost Optimization Best Practices
 
 * It's up to you what to optimize, and depends on your application needs
 
@@ -153,7 +153,7 @@
 
 * Sustainability addresses long-term environmental, economic, and societal impact of your business activity
 
-### Design Principles
+### Sustainability Design Principles
 
 * Understand your impact
 
@@ -167,7 +167,7 @@
 
 * Reduce the downstream impact of your cloud workloads
 
-### Best Practices
+### Sustainability Best Practices
 
 * Choose Regions where you will implement workloads based on your business requirements and sustainability goals
 
