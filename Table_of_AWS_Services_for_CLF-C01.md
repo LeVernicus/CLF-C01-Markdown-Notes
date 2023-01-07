@@ -46,7 +46,7 @@
 
 * Amazon Connect
 
-## # Management, Monitoring, and Governance
+## Management, Monitoring, and Governance
 
 * AWS Auto Scaling
 * AWS Budgets
